@@ -34,6 +34,7 @@ The design of the application makes sure that it is easy to add future improveme
 ## Process to Run Application
 
 1. Clone the repository:<br>
+   ```bash
    git clone https://github.com/aishalatif/MoodTracker.git
 2. Navigate to project directory:<br>
    cd MoodTracker <br>
