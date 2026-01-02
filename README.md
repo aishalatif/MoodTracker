@@ -33,12 +33,12 @@ The design of the application makes sure that it is easy to add future improveme
 
 ## Process to Run Application
 
-1. Clone the repository:
+1. Clone the repository:<br>
    git clone https://github.com/aishalatif/MoodTracker.git
-2. Navigate to project directory:
-   cd MoodTracker
+2. Navigate to project directory:<br>
+   cd MoodTracker <br>
    cd MoodTrackerProject
-3. Compile the program and run:
+3. Compile the program and run:<br>
    java src/**/*.java
 4. Follow the prompts given
 
